@@ -3,7 +3,7 @@
 
 ## Check it out live!
 
-[![WhatsApp Chatbot](https://i.postimg.cc/Ss6xVdbM/websiteplanet-qr-1.png)](https://wa.me/919717741778)
+[![WhatsApp Chatbot](https://i.postimg.cc/mDsbc912/websiteplanet-qr-1.png)](https://wa.me/919717741778)
 
 - Scan the QR code above or [click here](https://wa.me/919717741778) to open a chat or add the bot to your phone's best thing list.
 
