@@ -19,7 +19,7 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/whatsapp-chatbot.git
+git clone https://github.com/abhishekcodecrafter/whatsapp-videos-chatbot.git
 cd whatsapp-chatbot
 ```
 
@@ -30,7 +30,7 @@ pip3 install flask pytube
 ```
 
 ## Configuration
-- Replace Waba ID, Waba phone ID, Waba access token, and webhook secret code in the appropriate files.
+- Replace Waba ID, Waba phone ID, Waba access token, and webhook secret code in .env.js files.
 
 ## Run the Application
 
