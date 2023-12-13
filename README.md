@@ -3,7 +3,7 @@
 
 ## Check it out live!
 
-[![WhatsApp Chatbot](https://i.ibb.co/gPMfwjD/qrcode-85762736-29dd09ddb37873d98770c2d073e96824-1-1.png)](https://wa.me/919717741778)
+[![WhatsApp Chatbot](https://i.ibb.co/gPMfwjD/qrcode-85762736-29dd09ddb37873d98770c2d073e96824-2.png)](https://wa.me/919717741778)
 
 - Scan the QR code above or [click here](https://wa.me/919717741778) to open a chat or add the bot to your phone's best thing list.
 
