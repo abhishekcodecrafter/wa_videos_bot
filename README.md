@@ -5,9 +5,9 @@
 
 [![WhatsApp Chatbot](https://i.ibb.co/PWrhzrF/qrcode-85762736-29dd09ddb37873d98770c2d073e96824.png)](https://wa.me/919717741778)
 
-Scan the QR code above or [click here](https://wa.me/919717741778) to open a chat or add the bot to your phone's best thing list.
+- Scan the QR code above or [click here](https://wa.me/919717741778) to open a chat or add the bot to your phone's best thing list.
 
-
+- You can also send a message manually on WhatsApp to +919717741778.
 
 
 ## Features
