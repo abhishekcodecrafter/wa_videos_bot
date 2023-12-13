@@ -19,7 +19,7 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/abhishekcodecrafter/whatsapp-videos-chatbot.git
+git clone https://github.com/abhishekcodecrafter/download_videos_wa_chatbot.git
 cd whatsapp-chatbot
 ```
 
