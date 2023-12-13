@@ -29,8 +29,8 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/abhishekcodecrafter/download_videos_wa_chatbot.git
-cd download_videos_wa_chatbot
+git clone https://github.com/abhishekcodecrafter/wa_videos_bot.git
+cd wa_videos_bot
 ```
 
 ### Resolve Dependencies
