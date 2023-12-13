@@ -20,7 +20,7 @@
 ### Clone the Repository
 ```bash
 git clone https://github.com/abhishekcodecrafter/download_videos_wa_chatbot.git
-cd whatsapp-chatbot
+cd download_videos_wa_chatbot
 ```
 
 ### Resolve Dependencies
