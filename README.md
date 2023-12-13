@@ -21,3 +21,26 @@
 ```bash
 git clone https://github.com/your-username/whatsapp-chatbot.git
 cd whatsapp-chatbot
+```
+
+### Resolve Dependencies
+```bash
+npm i
+pip3 install flask pytube
+```
+
+## Configuration
+# Replace Waba ID, Waba phone ID, Waba access token, and webhook secret code in the appropriate files.
+
+## Run the Application
+
+### Start the chatbot
+```bash
+node app.js 
+```
+### Execute for YouTube videos and audios
+```bash
+python3 get_links.py
+```
+
+- Upon successful setup, you'll receive a Log in Terminal like "Someone is pinging me!" after registering the webhook at meta webhooks for WaBaCloud.
