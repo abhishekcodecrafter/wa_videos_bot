@@ -30,7 +30,7 @@ pip3 install flask pytube
 ```
 
 ## Configuration
-# Replace Waba ID, Waba phone ID, Waba access token, and webhook secret code in the appropriate files.
+- Replace Waba ID, Waba phone ID, Waba access token, and webhook secret code in the appropriate files.
 
 ## Run the Application
 
